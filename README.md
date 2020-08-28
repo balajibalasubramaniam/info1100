@@ -1,2 +1,2 @@
 # info1100
-Robotics project for students
+This GitHub repository contains the robotics final project for INFO 1100 students. The project requires a virtual machine, please download it from the scenario deliverables project website http://info1100.cccitnow.com/robotics/robotics.htm. The virtual machine contains the rest of the dependency software such as CoppeliaSim - virtual robotics simulator, Spyder IDE - python programming environment.
